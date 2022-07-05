@@ -1,0 +1,48 @@
+body {
+    background-image: url(assets/bg.jpg);
+    background-size: 1400px 650px;
+    text-align: center;
+    font-family: 'Barlow', sans-serif;
+}
+
+.hp {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.choice {
+    margin-top: 2.5rem;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.btns {
+    
+}
+
+button {
+    border-radius: 2px;
+    font-size: 1.5rem;
+    /* font-weight: bold; */
+    margin-left: 1rem;
+}
+
+.rk {
+    background-color: #413F42;
+    border-color: #413F42;
+    color: white;
+}
+
+.pr {
+    background-color: white;
+    border-color: black;
+    color: black;
+}
+
+.sr {
+    background-color: #FFE162;
+    border-color: #FFE162;
+    color: white;
+}

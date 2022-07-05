@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.toss {
+    font-size: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-weight: bold;
+}
+
+.toss:hover {
+    color: #F0A500;
+}
+
+.result {
+    font-size: 11rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.result:hover {
+    color: red;
+}
+
+.btn {
+    border-radius: 4%;
+    font-size: 2rem;
+    background-color: #FEF9A7;
+    border-color: #FAC213;
+    color: #FAC213;
+}
+
+.btn:hover {
+    background-color: #FFC3C3;
+    border-color: #FF5D5D;
+    color: #FF5D5D;
+
+}

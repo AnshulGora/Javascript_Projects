@@ -1,0 +1,48 @@
+#counter {
+    font-size: 75px ;
+    margin-top: 7%;
+    margin-top: 3%;
+}
+
+
+#counter:hover {
+    text-shadow: 3px 3px #FF5D5D;
+}
+
+#count {
+    font-size: 100px;
+    margin-top: 4%;
+}
+
+
+button {
+    border-radius: 7%;
+    border-color: black;
+    background-color: white;
+    margin-left: 2%;
+    padding: 0.5%;
+    font-size: 25px;
+}
+
+.dec:hover {
+    background-color: #FF5D5D;
+    color: #FFF2F2;
+}
+
+.res:hover {
+    background-color: #8CC0DE;
+    color: #FFF2F2;
+}
+
+.inc:hover {
+    background-color: #4E9F3D;
+    color: #FFF2F2;
+}
+
+body {
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6, button, body {
+    font-family: 'Roboto', sans-serif;
+}
