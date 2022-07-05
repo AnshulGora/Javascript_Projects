@@ -1,0 +1,30 @@
+body {
+    color: white;
+    background-image: url(assets/bg.jpg);
+    background-size: cover;
+    
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.time { font-size: 400%;
+    margin-top: 10% ;
+    margin-bottom: 2% ;
+}
+
+.name {
+    font-size: 2rem;
+    color: none;
+}
+
+.name:hover {
+    color: black;
+}
+
+.time {
+    background-color: #ffffff10;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+}
